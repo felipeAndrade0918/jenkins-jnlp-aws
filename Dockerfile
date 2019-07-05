@@ -1,4 +1,4 @@
-FROM jenkins/jnlp-slave:latest-jdk11
+FROM jenkins/jnlp-slave:latest
 
 LABEL maintainer="Felipe Andrade"
 LABEL homepage="https://github.com/felipeAndrade0918/jenkins-jnlp-aws"
